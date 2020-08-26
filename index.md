@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome grasshopper !
 
-You can use the [editor on GitHub](https://github.com/Cyclopstark/cyclops.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi there. My name is Huzo Zhyrhy. I welcome you to this global puzzle solving challenge. 
+Given below are all the instructions you need to get started. Hope you figure it &#1F601;
 
 ### Markdown
 
