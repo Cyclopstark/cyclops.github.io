@@ -1,7 +1,7 @@
 ## Welcome grasshopper !
 
-Hi there. My name is Huzo Zhyrhy. I welcome you to this global puzzle solving challenge. 
-Given below are all the instructions you need to get started. Hope you figure it &#1F601;
+Hi there. My name is ca9d855e222dcbf1e72979f6b2d21a44711b116d563494df2fc87ca1. I welcome you to this global puzzle solving challenge. 
+Given below are all the instructions you need to get started. Lets's see who reaches the end first :-) . Hope you figure it out &#1F601;
 
 ### Markdown
 
